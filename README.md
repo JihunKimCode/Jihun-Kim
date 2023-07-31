@@ -26,5 +26,5 @@ Learning/Used:
 # About me...
 - [Personal Projects](https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865)
   - Check my repositories as well!
-- [Resume](https://file.notion.so/f/s/6982cee3-2da9-4608-918a-50d42456ee83/Kim_Jihun_Resume.pdf?id=6447d232-3323-4ce7-984c-c56e08e45aa6&table=block&spaceId=5c510a0a-0140-441e-bc70-07347447d061&expirationTimestamp=1690876800000&signature=o0sHgw6qYrHzFuSfB4oI56CrlHpc2UWIMrIF7Ju0wGY&downloadName=Kim_Jihun+Resume.pdf)
+- [Resume](https://file.notion.so/f/s/bbe4c828-2564-4fee-be6a-94f725071487/Kim_Jihun_Resume.pdf?id=6447d232-3323-4ce7-984c-c56e08e45aa6&table=block&spaceId=5c510a0a-0140-441e-bc70-07347447d061&expirationTimestamp=1690927200000&signature=HgaF270lvXmDDg4MEDjrGld3Xh0n_zTsq9jMrytMVL8&downloadName=Kim_Jihun+Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jihun-kim-2b9820254/)
