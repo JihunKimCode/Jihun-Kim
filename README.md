@@ -16,7 +16,7 @@ Proficient:
 
 Learning/Used:
 <a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
+<a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
 <a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></a>
 <a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a href="https://github.com/JihunKimCode" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
