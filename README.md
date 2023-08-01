@@ -17,12 +17,10 @@
   <a href="https://github.com/JihunKimCode?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Github Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-</div>
 
 **Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.
 
 ---
-<div align="center"> 
 
   ### 💡Proficient
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
