@@ -58,10 +58,10 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
