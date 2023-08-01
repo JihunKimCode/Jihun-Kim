@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
