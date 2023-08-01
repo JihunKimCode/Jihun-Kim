@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Welcome%20to%20my%20GitHub%20Page!%20&height=120&fontSize=52&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=57b5dc&text=Welcome%20to%20my%20GitHub%20Page!%20&height=120&fontSize=52&descAlignY=75&descAlign=60)
 
   <a href="https://www.linkedin.com/in/jihun-kim-2b9820254/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
