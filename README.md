@@ -26,7 +26,8 @@ While majoring in computer science at university, I learned about **data structu
 <div align="center"> 
 
   ## Skills
-  Proficient:
+  ### Proficient
+  
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   </a>
@@ -34,7 +35,8 @@ While majoring in computer science at university, I learned about **data structu
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </a>
   
-  Learning/Used:
+  ### Learning/Used
+  
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   </a>
@@ -51,7 +53,7 @@ While majoring in computer science at university, I learned about **data structu
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   </a>
   
-  ## Other Skills
+  ### Tools and Libraries
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   </a>
@@ -66,5 +68,11 @@ While majoring in computer science at university, I learned about **data structu
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   </a>
 <div>
