@@ -5,7 +5,7 @@
 <a href="https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865" target="_blank"><img src="https://img.shields.io/badge/Personal Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/JihunKimCode?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github Repositories-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-**Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience and try various technologies and view this field from a diversified perspective. 
+**Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.  
 
 While majoring in computer engineering at university, I learned about data structures, cryptography, cybersecurity, and machine learning. Furthermore, I attempted to broaden my knowledge by studying statistics and physics. I also participated in various projects, such as creating a website or composing music using machine learning, which could utilize the knowledge I had learned.
 
