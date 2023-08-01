@@ -38,6 +38,9 @@
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  </a>  
+  <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
