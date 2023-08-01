@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/jihun-kim-2b9820254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://file.notion.so/f/s/bbe4c828-2564-4fee-be6a-94f725071487/Kim_Jihun_Resume.pdf?id=6447d232-3323-4ce7-984c-c56e08e45aa6&table=block&spaceId=5c510a0a-0140-441e-bc70-07347447d061&expirationTimestamp=1690927200000&signature=HgaF270lvXmDDg4MEDjrGld3Xh0n_zTsq9jMrytMVL8&downloadName=Kim_Jihun+Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865" target="_blank"><img src="https://img.shields.io/badge/Personal Project-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865" target="_blank"><img src="https://img.shields.io/badge/Personal Projects-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/JihunKimCode?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github Repositories-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I not only concentrate on one technology, but I always try to experience and try various technologies and view this field from a diversified perspective. 
