@@ -1,6 +1,6 @@
 <div align="center"> 
-
-  ## Welcome to my GitHub Page!
+  
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Welcome%20to%20my%20GitHub%20Page!%20&height=120&fontSize=52&descAlignY=75&descAlign=60)
 
   <a href="https://www.linkedin.com/in/jihun-kim-2b9820254/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -19,15 +19,12 @@
   </a>
 </div>
 
-**Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.  
+**Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.
 
-While majoring in computer science at university, I learned about **data structures, cryptography, cybersecurity, and machine learning**. I participated in various projects, such as creating a website or composing music using machine learning, which could utilize the knowledge I had learned. Furthermore, I attempted to broaden my knowledge by studying **statistics** and **physics**. 
-
+---
 <div align="center"> 
 
-  ## Skills
-  ### Proficient
-  
+  ### 💡Proficient
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   </a>
@@ -35,8 +32,7 @@ While majoring in computer science at university, I learned about **data structu
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </a>
   
-  ### Learning/Used
-  
+  ### 💡Learning/Used
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   </a>
@@ -53,7 +49,7 @@ While majoring in computer science at university, I learned about **data structu
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   </a>
   
-  ### Tools and Libraries
+  ### 💡Tools and Libraries
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   </a>
