@@ -8,7 +8,7 @@
   <a href="mailto:jiunkim8@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://file.notion.so/f/s/808917b6-bf7a-46c3-8b34-9cd7552c58d6/Kim_Jihun_Resume.pdf?id=126efcfa-1c33-4626-9ed5-0a2ee6ff0543&table=block&spaceId=5c510a0a-0140-441e-bc70-07347447d061&expirationTimestamp=1690992000000&signature=iN8XokMsT2KsCXIBlqbRoUlI9Z5CbdXuRUsXOjBDzvA&downloadName=Kim_Jihun+Resume.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.notion.so/Resume-5c6b354fff334b23943fb50f0e4869e1?pvs=4" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865" target="_blank" rel="noopener noreferrer">
