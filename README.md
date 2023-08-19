@@ -2,7 +2,7 @@
   
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=57b5dc&text=Jihun's%20GitHub&height=120&fontSize=72&desc=Welcome!&descAlignY=17&descAlign=36)
 
-  <a href="https://www.linkedin.com/in/jihun-kim-2b9820254/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jihunkimcode" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jiunkim8@gmail.com" target="_blank" rel="noopener noreferrer">
