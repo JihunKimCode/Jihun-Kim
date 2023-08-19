@@ -17,7 +17,7 @@
   <a href="https://github.com/JihunKimCode?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Github Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://jihunkimcode.github.io/website/portfolio/index.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://jihunkimcode.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Virtual Portfolio-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 
