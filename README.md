@@ -67,6 +67,9 @@
     <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
