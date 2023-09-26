@@ -85,6 +85,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="7" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="android logo"  />
 </div>
 
 ###
