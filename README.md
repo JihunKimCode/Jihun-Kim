@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
@@ -43,21 +43,21 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
@@ -69,21 +69,21 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="6" />
+  <img width="7" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
 </div>
 
