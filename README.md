@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   </a>
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-a458b9?style=flat-square&logo=csharp&logoColor=white"/>
   </a>  
   <a href="https://github.com/JihunKimCode" target="_self" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
