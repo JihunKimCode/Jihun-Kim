@@ -20,7 +20,7 @@
   <a href="https://jihunkimcode.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Virtual Portfolio-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
   </a>
-
+  
 ---
 
 **Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.
@@ -29,19 +29,13 @@
 
 <h3 align="center">💡 Proficient</h3>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
-###
-
 <h3 align="center">💡 Learning/Used</h3>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -63,11 +57,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-###
-
 <h3 align="center">💡 Tools and Libraries</h3>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
@@ -90,5 +80,3 @@
   <img width="4" />
   <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="android logo"  />
 </div>
-
-###
