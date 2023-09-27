@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/Virtual Portfolio-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
   </a>
 
+---
+
 **Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.
 
 ---
