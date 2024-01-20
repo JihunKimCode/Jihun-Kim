@@ -66,6 +66,10 @@
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="3" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
