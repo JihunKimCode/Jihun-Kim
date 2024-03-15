@@ -23,7 +23,9 @@
   
 ---
 
-**Hello! I am Jihun Kim, a passionate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning at the University of Tennessee, Knoxville.** I always try to experience various technologies and view this field from a diversified perspective.
+<h3>Candidate for Master of Science in Computer Science</h3>
+<h3>Undergraduate Student Majoring in Computer Science, Minoring in Cybersecurity and Machine Learning</h3>
+<h3>@ University of Tennessee, Knoxville</h3>
 
 ---
 
