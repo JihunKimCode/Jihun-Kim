@@ -23,8 +23,9 @@
   
 ---
 
-<h3>Candidate for Master of Science in Computer Science</h3>
-<h3>Undergraduate Student Majoring in Computer Science, Minoring in Cybersecurity and Machine Learning</h3>
+<h3>Master of Science in Computer Science</h3>
+<h3>Bachelor of Science in Computer Science, Summa Cum Laude</h3>
+<h3>Majoring in Computer Science, Minoring in Cybersecurity and Machine Learning</h3>
 <h3>@ University of Tennessee, Knoxville</h3>
 
 ---
@@ -37,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
 </div>
 
-<h3 align="center">💡 Learning/Used</h3>
+<h3 align="center">💡 Learning or Used</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c"  />
@@ -64,17 +65,17 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
-  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongoDB"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
   <img width="3" />
   <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="excel"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongoDB"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim"  />
   <img width="3" />
