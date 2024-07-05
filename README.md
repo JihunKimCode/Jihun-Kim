@@ -69,7 +69,7 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
   <img width="3" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="excel"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg" height="40" alt="excel"  />
   <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"  />
   <img width="3" />
