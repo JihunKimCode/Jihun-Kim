@@ -11,9 +11,11 @@
   <a href="https://jihunkimcode.github.io/Files/Kim_Jihun%20Resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white" height="23"/>
   </a>
+  <!--
   <a href="https://www.notion.so/38d713a7a15444e3b93f6999ff29e284?v=348df73b8b5b49158586d3ba11b25865" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Personal Projects-000000?style=flat-square&logo=notion&logoColor=white" height="23"/>
   </a>
+  -->
   <a href="https://github.com/JihunKimCode?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Github Repositories-181717?style=flat-square&logo=github&logoColor=white" height="23"/>
   </a>
